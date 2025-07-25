@@ -33,8 +33,8 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) y [Yarn](https://cl
 
 ### 📥 Clona el repositorio
 ```bash
-git clone https://github.com/tetohc/4thewords_frontend_jerry_hurtado.git
-cd 4thewords_backend_jerry_hurtado
+git clone https://github.com/tetohc/VirtualBooks-Frontend.git
+cd VirtualBooks-Frontend
 ```
 
 ### 📦 Instala las dependencias

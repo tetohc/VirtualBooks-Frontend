@@ -44,7 +44,7 @@ yarn install
 
 ## 🔗 Comunicación con el backend
 
-Asegúrate de que el proyecto [Backend Leyendas Costarricenses](https://github.com/tetohc/4thewords_backend_jerry_hurtado.git) esté ejecutándose correctamente para que el frontend funcione.
+Asegúrate de que el proyecto [Backend Leyendas Costarricenses](https://github.com/tetohc/VirtualBooks-Backend) esté ejecutándose correctamente para que el frontend funcione.
 
 ## ▶️Ejecutar el proyecto
 

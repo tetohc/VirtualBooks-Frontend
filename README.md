@@ -82,4 +82,7 @@ Asegúrate de que el proyecto [Backend Leyendas Costarricenses](https://github.c
 Para ejecutar el proyecto, usa el siguiente comando:
 
 ```bash
----
+yarn vite
+```
+
+El proyecto se levantará en el puerto 3000.

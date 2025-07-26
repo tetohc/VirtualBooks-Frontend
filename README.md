@@ -2,6 +2,7 @@
 
 Aplicación web sobre libro virtual de leyendas costarricenses, construida con **Vue.js 3**, utilizando **Vuetify** como biblioteca de componentes, **Vue Router** para navegación entre pantallas, **Pinia** para gestión de estado y Vee-Validate para validaciones reactivas. 
 Consume el API [Backend Leyendas Costarricenses](https://github.com/tetohc/VirtualBooks-Backend) desarrollado con Python y FastApi.
+
 ---
 
 ## 🧰 Tecnologías Utilizadas
